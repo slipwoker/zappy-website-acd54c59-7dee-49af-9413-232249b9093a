@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### סקירה כללית
+https://example.com
+פיצרייה מובילה בגן יבנה עם דירוג 4.8 כוכבים! פיצות טריות, גבינות עשירות ומחירים מפתיעים החל מ-1 שקל. משלוח עד הבית או איסוף עצמי — פתוחים עד 00:30!
+
+### תפריט
+https://example.com/menu
+גלו את תפריט הפיצות המלא של צ&#39;יזי לוק — מגוון טעמים, גבינות נמסות ומחירים שמתחילים מ-50 שקל לאדם. בחרו את הפיצה המושלמת שלכם והזמינו פיצה אונליין עכשיו!
+
+### ביקורות
+https://example.com/reviews
+41 ביקורות מוכיחות שצ&#39;יזי לוק היא הפיצרייה האהובה בגן יבנה! קראו מה הלקוחות אומרים על הטעם, השירות והמשלוח המהיר, ובואו לגלות בעצמכם למה כולם חוזרים.
+
+### תמונות
+https://example.com/photos
+צפו בגלריית התמונות של פיצה צ&#39;יזי לוק וראו בעצמכם את הגבינה הנמסת, הבצק הפריך והטופינגס העשירים. אחרי שתראו — לא תוכלו לא להזמין פיצה משלוח לבית!
+
+### מידע כללי
+https://example.com/info
+פיצרייה עם איסוף עצמי ומשלוח עד הבית בגן יבנה — פתוחים עד 00:30 בלילה! מצאו את הכתובת המלאה, מספר הטלפון ואפשרויות ההזמנה. צ&#39;יזי לוק תמיד זמינה כשהתאבון מגיע.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
